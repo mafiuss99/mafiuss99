@@ -1,7 +1,9 @@
-## Bem vindo ao meu perfil!
+Olá! Eu sou Matheus 😃
 
-### Olá me chamo Matheus, tenho 22 anos.
-
+👨‍💻 Atualmente sou Dev Front End na @seox
+🚀 Experiência com desenvolvimento Front end com React e Vue
+🎯 Graduando em Análise e Desenvolvimento de Sistemaass
+📌 Quer falar comigo? @matheusfelipe020 (Instagram)
 
 <div>
   <a href="https://github.com/mafiuss99">
