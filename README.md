@@ -1,6 +1,6 @@
 <style>
   .apresentacao {
-    background: res;
+    background: red;
   }
 </style>
 
@@ -13,6 +13,7 @@
     <li>🎯 Graduando em Análise e Desenvolvimento de Sistemas</li>
     <li>📌 Quer falar comigo? @matheusfelipe020 (Instagram)</li>
   </ul>
+  
 </section>
 
 <div>
