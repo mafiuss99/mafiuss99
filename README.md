@@ -1,4 +1,4 @@
-<section>
+<section style="margin-bottom: 20px;">
   <h2>Olá! Seja bem vindo ao meu perfil</h2>
   <ul>
     <li>👨‍💻 Atualmente sou Dev Front End na @seox</li>
