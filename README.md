@@ -1,10 +1,4 @@
-<style>
-  .apresentacao {
-    background: red;
-  }
-</style>
-
-<section class="apresentacao">
+<section style="background: red;">
   <h2>Olá! Seja bem vindo ao meu perfil</h2>
 
   <ul>
