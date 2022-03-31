@@ -1,4 +1,4 @@
-<section>
+<section style="margin-bottom: 20px;">
   <h2>Olá! Seja bem vindo ao meu perfil</h2>
   <ul>
     <li>👨‍💻 Atualmente sou Dev Front End na @seox</li>
@@ -7,7 +7,7 @@
     <li>📌 Quer falar comigo? @matheusfelipe020 (Instagram)</li>
   </ul>
 </section>
-###
+
 <section>
   <a href="https://github.com/mafiuss99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafiuss99&layout=compact&langs_count=7&theme=dracula"/>
