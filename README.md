@@ -7,7 +7,6 @@
     <li>📌 Quer falar comigo? @matheusfelipe020 (Instagram)</li>
   </ul>
 </section>
-<br/>
 <section>
   <a href="https://github.com/mafiuss99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafiuss99&layout=compact&langs_count=7&theme=dracula"/>
