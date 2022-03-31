@@ -1,9 +1,11 @@
-Olá! Eu sou Matheus 😃
+<h2>Olá! Eu sou Matheus 😃</h2>
 
-👨‍💻 Atualmente sou Dev Front End na @seox
-🚀 Experiência com desenvolvimento Front end com React e Vue
-🎯 Graduando em Análise e Desenvolvimento de Sistemaass
-📌 Quer falar comigo? @matheusfelipe020 (Instagram)
+<ul>
+  <li>👨‍💻 Atualmente sou Dev Front End na @seox</li>
+  <li>🚀 Experiência com desenvolvimento Front end com React e Vue</li>
+  <li>🎯 Graduando em Análise e Desenvolvimento de Sistemas</li>
+  <li>📌 Quer falar comigo? @matheusfelipe020 (Instagram)</li>
+</ul>
 
 <div>
   <a href="https://github.com/mafiuss99">
