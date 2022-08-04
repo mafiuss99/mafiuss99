@@ -1,7 +1,7 @@
 <section>
-  <h2>Olá! Seja bem vindo ao meu perfil</h2>
+  <h2>Olá! sou o Matheus</h2>
   <ul>
-    <li>👨‍💻 Atualmente sou Dev Front End na @seox</li>
+    <li>👨‍💻 Desenvolvedor de Frontend Junior na <a href="https://www.seox.com.br/" title="Site da Seox" target="_blank">SEOX</a></li>
     <li>🚀 Experiência com desenvolvimento Front end com React e Vue</li>
     <li>🎯 Graduando em Análise e Desenvolvimento de Sistemas</li>
     <li>📌 Quer falar comigo? @matheusfelipe020 (Instagram)</li>
